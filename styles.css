@@ -1,0 +1,106 @@
+*{
+    background-color: blanchedalmond;
+    position: absolute;
+}
+label{
+    display: block;
+    float: left;
+}
+.tree{
+    height: 800px;
+}
+fieldset{
+    margin-left: 600px;
+    width: 100px;
+    height: 20rem;
+    width: 30rem;
+
+}
+#llabel{
+    margin-top: 6.5rem;
+    margin-left: 12rem;
+}
+#lasttname{
+    margin-top: 8rem;
+    margin-left: 12rem;
+}
+#lerror{
+    margin-top: 9.5rem;
+    margin-left: 12rem;
+    color: red;
+}
+
+#flabel{
+    margin-top: 6.5rem;
+}
+#firstname{
+    margin-top: 8rem;
+}
+#ferror{
+    margin-top: 9.5rem;
+    color: red;
+}
+
+
+
+
+#e{
+    margin-top: 11rem;
+    margin-left: 12rem;
+}
+#Em{
+    margin-top: 12.5rem;
+    margin-left: 12rem;
+}
+#eerror{
+    margin-top: 14rem;
+    margin-left: 12rem;
+    color: red;
+}
+#plabel{
+    margin-top: 11rem;
+}
+#phone{
+    margin-top: 12.5rem;
+}
+#pherror{
+    margin-top: 14rem;
+    color: red;
+}
+
+
+#passlabel{
+    margin-top: 15.5rem;
+}
+#pass{
+    margin-top: 17rem;
+}
+#perror{
+    margin-top: 18.5rem;
+    color: red;
+}
+#passconfirmlabel{
+    margin-top: 15.5rem;
+    margin-left: 12rem;
+}
+#passconfirm{
+    margin-top: 17rem;
+    margin-left: 12rem;
+}
+#pcerror{
+    margin-top: 18.5rem;
+    margin-left: 12rem;
+    color: red;
+}
+#submit{
+    margin-top: 22rem;
+}
+#reset{
+    margin-top: 22rem;
+    margin-left: 8rem;
+}
+h2{
+    text-align: center;
+    margin-top: 30rem;
+    margin-left: 35rem;
+}
